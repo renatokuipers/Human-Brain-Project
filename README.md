@@ -1,7 +1,7 @@
 # Human-Brain-Project
 A comprehensive, modular Python project for simulating various aspects of human brain function, including neuronal dynamics, network interactions, sensory processing, and cognitive functions. Based on empirical data and integrates machine learning for pattern recognition.
 
-Thus Human Brain Simulation Project is an ambitious initiative to develop a modular and comprehensive Python-based framework for simulating various aspects of human brain function. The project aims to integrate empirical data, advanced computational models, and machine learning techniques to create a realistic representation of brain dynamics, network interactions, sensory processing, cognitive functions, and pathologies.
+This Human Brain Simulation Project is an ambitious initiative to develop a modular and comprehensive Python-based framework for simulating various aspects of human brain function. The project aims to integrate empirical data, advanced computational models, and machine learning techniques to create a realistic representation of brain dynamics, network interactions, sensory processing, cognitive functions, and pathologies.
 
 ## Project Structure
 

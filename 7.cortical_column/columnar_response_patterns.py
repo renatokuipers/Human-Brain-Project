@@ -1,0 +1,1 @@
+# Analyzes response patterns of the column to various stimuli

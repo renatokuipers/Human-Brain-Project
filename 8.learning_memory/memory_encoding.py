@@ -1,0 +1,1 @@
+# Models the encoding process in memory formation

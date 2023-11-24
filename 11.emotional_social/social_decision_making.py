@@ -1,0 +1,1 @@
+# Simulates decision-making processes in social contexts

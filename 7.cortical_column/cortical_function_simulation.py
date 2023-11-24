@@ -1,0 +1,1 @@
+# Simulates specific cortical functions (e.g., sensory processing, motor control)

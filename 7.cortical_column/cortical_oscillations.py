@@ -1,0 +1,1 @@
+# Simulates oscillatory activity within cortical columns

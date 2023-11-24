@@ -1,0 +1,1 @@
+# Models the balance of inhibitory and excitatory neurons in the column

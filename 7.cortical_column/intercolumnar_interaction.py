@@ -1,0 +1,1 @@
+# Models interactions between different cortical columns

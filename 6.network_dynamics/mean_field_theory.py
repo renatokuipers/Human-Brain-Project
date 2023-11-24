@@ -1,0 +1,1 @@
+# Application of mean field theory in large-scale brain modeling

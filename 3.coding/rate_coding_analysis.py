@@ -1,0 +1,1 @@
+# Analyzing and simulating rate coding in neurons

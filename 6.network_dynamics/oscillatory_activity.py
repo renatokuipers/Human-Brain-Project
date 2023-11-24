@@ -1,0 +1,1 @@
+# Simulation of rhythmic patterns in neural networks

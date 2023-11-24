@@ -1,0 +1,1 @@
+# Simulates sensory adaptation mechanisms

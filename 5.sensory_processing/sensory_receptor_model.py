@@ -1,0 +1,1 @@
+# Models different types of sensory receptors

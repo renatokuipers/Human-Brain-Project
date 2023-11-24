@@ -1,0 +1,1 @@
+# Simulates the process of converting external stimuli into neural signals

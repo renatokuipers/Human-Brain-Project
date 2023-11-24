@@ -1,0 +1,1 @@
+# Simulates the mapping of sensory information in different cortical areas

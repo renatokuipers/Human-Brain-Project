@@ -1,0 +1,1 @@
+# Studying the impact of synaptic plasticity on coding

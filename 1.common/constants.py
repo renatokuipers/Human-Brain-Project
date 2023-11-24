@@ -1,0 +1,1 @@
+# Central place for all constants used in the project

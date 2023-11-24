@@ -1,6 +1,4 @@
-# Welcome to the Human Brain Simulation Project Wiki
-
-## Introduction
+# About to the Human Brain Simulation Project
 
 The Human Brain Simulation Project is an ambitious, open-source initiative aimed at creating a comprehensive and modular framework for simulating various aspects of human brain function. This project leverages the power of Python to model neuronal dynamics, network interactions, sensory processing, and cognitive functions. Our goal is to bridge the gap between empirical brain research and computational neuroscience, integrating machine learning techniques for advanced pattern recognition and analysis.
 

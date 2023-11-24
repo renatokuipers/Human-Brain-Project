@@ -152,6 +152,23 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# project related
+*.model
+models/
+*~
+*.bak
+*.hdf5
+data/
+datasets/
+config.json
+secret_key.txt
+*.log
+*.csv
+output/
+results/
+simulations/
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

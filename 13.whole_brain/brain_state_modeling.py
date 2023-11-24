@@ -1,0 +1,1 @@
+# Simulates different states of brain activity (e.g., sleep, wakefulness)

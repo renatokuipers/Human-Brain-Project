@@ -1,0 +1,1 @@
+# Integrates various types of data (e.g., fMRI, DTI, EEG) for comprehensive modeling

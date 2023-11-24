@@ -30,8 +30,4 @@ We welcome contributions from researchers, data scientists, neuroscientists, and
 
 ## License
 
-This project is licensed under [appropriate license], allowing for wide dissemination and collaborative enhancement.
-
-## Acknowledgments
-
-Special thanks to [collaborators, institutions, or funding bodies] for their support and contributions to this project.
+This project is licensed under GNU General Public License v3.0, allowing for wide dissemination and collaborative enhancement.
